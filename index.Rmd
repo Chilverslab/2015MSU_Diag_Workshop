@@ -9,7 +9,7 @@ For download of the course materials, please click the links below:
 
 1. [_Fusarium virguliforme_ qPCR assay](http://www.ncbi.nlm.nih.gov/pubmed/25302524)
 2. [_Phytophthora_ spp. qPCR assay](http://apsjournals.apsnet.org/doi/10.1094/PHYTO-05-14-0134-R)
-
+3. [_Phytophthora_ spp. qPCR assay]()
 
 *****
 This page is hosted and maintained by [Chilvers Lab](http://www.fieldcroppathology.msu.edu)

@@ -1,0 +1,11 @@
+---
+title: "2015 MSU Plant Diagnostic Training"
+---
+
+Welcome! This page provides a concise introduction to conducting qPCR diagnostics for 
+a variety of plant pathogens, with a special emphasis on soilborne soybean diseases.
+
+For download of the course materials, please click the links below:
+
+1. [_Fusarium virguliforme_ qPCR assay](http://www.ncbi.nlm.nih.gov/pubmed/25302524)
+2. [_Phytophthora sojae_ root rot qPCR assay](http://apsjournals.apsnet.org/doi/10.1094/PHYTO-05-14-0134-R)

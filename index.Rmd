@@ -37,7 +37,7 @@ workshop (if needed)
 
 11:00	qPCR lectures - SDS and _Phytophthora_ specific discussion (Jie, Tim and Alejandro)
 
-12:00 	Lunch in Plant and Soil Sciences Atrium - provided by VWR?
+12:00 	Lunch in [Molecular Plant Sciences Atrium](http://maps.msu.edu/interactive/index.php?location=mps)
 
 ******
 
@@ -46,7 +46,7 @@ workshop (if needed)
 
 1:00	Review of qPCR results
 
-1:30	RPA overview - Alejandro, Mitch, Tim?
+1:30	RPA overview - Tim, Alejandro, and Mitch
 
 2:15	RPA sample prep and reaction setup
 

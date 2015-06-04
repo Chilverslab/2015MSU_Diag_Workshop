@@ -1,0 +1,9 @@
+---
+title: "2015 MSU Plant Diagnostic Training"
+---
+
+Welcome! This page provides a concise introduction to conducting qPCR diagnostics for 
+a variety of plant pathogens, with a special emphasis on soilborne soybean diseases.
+
+For download of the course materials, please click the links below:
+[Soybean Sudden Death Syndrome qPCR assay](http://www.ncbi.nlm.nih.gov/pubmed/25302524)

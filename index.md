@@ -74,6 +74,7 @@ For download of the course materials, please click the links below:
 
 *****
 This page is hosted and maintained by [Chilvers Lab](http://www.fieldcroppathology.msu.edu)
+
 ![MSU_logo](http://maps.msu.edu/interactive/_files/images/index/masthead-helmet-green.svg)
 
 </xmp>

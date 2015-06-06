@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
-<title>Extraction of DNA from root samples for _Phytopthora sojae_ and _Phytophthora sansomeana_</title>
+<title>DNA Extraction Protocol 1</title>
 <xmp theme="Readable" style="display:none;">
 
+#Extraction of DNA from root samples for _Phytopthora sojae_ and _Phytophthora sansomeana_
 
-Reagents and equipment
-======================
+##Reagents and equipment
 
 -   DNeasy Plant Mini kit (Qiagen Cat No. 69104)
 
@@ -23,8 +23,7 @@ Reagents and equipment
 
 -   Heat block or water bath
 
-Preparation before DNA extraction
-=================================
+##Preparation before DNA extraction
 
 -   Recommended number of samples per extraction range from 20 to 24 to
     avoid desiccation of samples during the process and it also depends
@@ -55,8 +54,7 @@ Preparation before DNA extraction
 
 -   Start the water bath or heat block at 65ºC
 
-DNA extraction process
-======================
+##DNA extraction process
 
 1.  Wash the root system using tap water to remove soil and rhizosphere
     adhered to the tissue. Pat the root tissue dry on the towel papers.
@@ -119,8 +117,7 @@ DNA extraction process
 
 19. Store DNA at -20ºC for downstream applications.
 
-References
-==========
+##References
 
 -   Qiagen instruction manual for the DNeasy® Plant Handbook, section
     Plant Tissue – Mini Protocol, version October 2012.

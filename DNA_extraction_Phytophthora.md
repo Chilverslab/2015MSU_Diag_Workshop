@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>Extraction of DNA from root samples for <i>Phytopthora sojae</i> and <i>Phytophthora sansomeana</i></title>
+<title>Extraction of DNA from root samples for _Phytopthora sojae_ and _Phytophthora sansomeana_</title>
 <xmp theme="Readable" style="display:none;">
 
 

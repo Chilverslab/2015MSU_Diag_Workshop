@@ -73,8 +73,7 @@ For download of the course materials, please click the links below:
 4. [_Phytophthora_ spp. RPA assay](http://www.apsnet.org/meetings/Documents/2014_meeting_abstracts/aps2014abP388.htm)
 
 *****
-This page is hosted and maintained by [Chilvers Lab](http://www.fieldcroppathology.msu.edu)
-
+This page is hosted and maintained by [Chilvers Lab](http://www.fieldcroppathology.msu.edu)  
 ![MSU_logo](http://maps.msu.edu/interactive/_files/images/index/masthead-helmet-green.svg)
 
 </xmp>

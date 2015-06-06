@@ -1,8 +1,8 @@
----
-title: |
-    Extraction of DNA from root samples for *Phytopthora sojae* and
-    *Phytophthora sansomeana*
-...
+<!DOCTYPE html>
+<html>
+<title>Extraction of DNA from root samples for <i>Phytopthora sojae</i> and <i>Phytophthora sansomeana</i></title>
+<xmp theme="Readable" style="display:none;">
+
 
 Reagents and equipment
 ======================
@@ -128,3 +128,8 @@ References
 -   USDA-APHIS 2004. Sudden oak death: *Phytophthora ramorum*. In: Pest
     Detection and Management Programs. L. Levy and V. Mavrodieva, eds.
     USDA Animal Plant Health Inspection Service, USA.
+
+</xmp>
+
+<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
+</html>

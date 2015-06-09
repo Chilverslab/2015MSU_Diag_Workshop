@@ -22,7 +22,7 @@ a variety of plant pathogens, with a special emphasis on soilborne soybean disea
 **8:00** Meet in Kellogg Hotel and Conference center lobby for transportation to
 workshop (if needed)
 
-**8:30** Welcome and Introductions - Marty and Ray
+**8:30** Welcome and Introductions - Martin Chilvers
 
 ******
 
@@ -35,9 +35,9 @@ workshop (if needed)
 
 **9:45**    Break with refreshment
 
-**10:00**    qPCR setup - SDS and _Phytophthora_ qPCR
+**10:00**   qPCR setup - SDS and _Phytophthora_ qPCR
 
-**11:00**	qPCR lectures - SDS and _Phytophthora_ specific discussion (Jie, Tim and Alejandro)
+**11:00**   qPCR lectures - SDS and _Phytophthora_ specific discussion (Jie, Tim and Alejandro)
 
 **12:00** 	Lunch at [Molecular Plant Sciences Atrium](http://maps.msu.edu/interactive/index.php?location=mps)
 
@@ -58,7 +58,9 @@ workshop (if needed)
 
 **3:40**	Review RPA results
 
-**4:00** 	Q & A session Workshop wrap up - questions and survey
+**4:00** 	Q & A session
+
+Workshop wrap up - questions and survey
 
 **5:00**	Transportation to Kellogg Center
 
@@ -73,7 +75,7 @@ For download of the course materials, please click the links below:
 4. [_Phytophthora_ spp. RPA assay](http://www.apsnet.org/meetings/Documents/2014_meeting_abstracts/aps2014abP388.htm)
 
 *****
-This page is hosted and maintained by [Chilvers Lab](http://www.fieldcroppathology.msu.edu)  
+This page is hosted and maintained by [Chilvers Lab](http://www.fieldcroppathology.msu.edu)
 ![MSU_logo](http://maps.msu.edu/interactive/_files/images/index/masthead-helmet-green.svg)
 
 </xmp>
